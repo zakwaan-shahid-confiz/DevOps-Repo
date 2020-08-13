@@ -1,0 +1,6 @@
+com\example\SpringDockerAssignment\Model\Candidate.class
+com\example\SpringDockerAssignment\Repository\CandidateRepository.class
+com\example\SpringDockerAssignment\Controller\CandidateController.class
+com\example\SpringDockerAssignment\Service\CandidateService.class
+com\example\SpringDockerAssignment\Config\ApplicationConfiguration.class
+com\example\SpringDockerAssignment\SpringDockerAssignmentApplication.class
